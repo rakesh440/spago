@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: SpagoBICommonJEngine
+Implementation-Version: 5.2.0
+Built-By: SpagoBI Labs
+Implementation-Vendor-Id: it.eng.spagobi
+Build-Jdk: 1.8.0_141
+Created-By: Maven Integration for Eclipse
+
